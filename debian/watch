@@ -1,0 +1,4 @@
+version=4
+https://dev.yorhel.nl/ncdc/changes \
+.*/download/ncdc-(\d.+)\.tar\.gz \
+debian uupdate
