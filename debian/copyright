@@ -3,8 +3,7 @@ Debianized-By: Boris Pek <tehnick-8@yandex.ru>
 Debianized-Date: Tue, 16 Feb 2021 02:35:54 +0300
 Upstream-Name: Ncdc
 Upstream-Contact: Yoran Heling <projects@yorhel.nl>
-Source: https://dev.yorhel.nl/ncdc/changes
- The orig.tar.gz is just renamed upstream tarball (without changes).
+Source: https://g.blicky.net/ncdc.git
 
 Files: *
 Copyright: 2011-2019 Yoran Heling <projects@yorhel.nl>
