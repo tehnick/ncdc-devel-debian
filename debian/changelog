@@ -1,3 +1,9 @@
+ncdc (1.22.1-1ppa1~hirsute1) hirsute; urgency=medium
+
+  * Rebuild on Launchpad.
+
+ -- Boris Pek <tehnick@debian.org>  Tue, 16 Feb 2021 04:26:00 +0300
+
 ncdc (1.22.1-1) experimental; urgency=medium
 
   * Initial release. (Closes: #982897)
