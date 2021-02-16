@@ -1,3 +1,9 @@
+ncdc-devel (1.22.1+2+g64322ab-0ppa1~hirsute1) hirsute; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Tue, 16 Feb 2021 05:05:22 +0300
+
 ncdc (1.22.1-1ppa1~hirsute1) hirsute; urgency=medium
 
   * Rebuild on Launchpad.
