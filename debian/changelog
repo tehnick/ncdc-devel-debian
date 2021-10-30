@@ -1,3 +1,9 @@
+ncdc-devel (1.22.1+11+g4126dd5-0ppa1~impish1) impish; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Sat, 30 Oct 2021 16:54:32 +0300
+
 ncdc-devel (1.22.1+10+g997cf16-0ppa2~impish1) impish; urgency=medium
 
   * Small improvements in the package.
