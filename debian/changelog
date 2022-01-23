@@ -1,3 +1,9 @@
+ncdc-devel (1.22.1+12+g50848fe-0ppa1~jammy1) jammy; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Sun, 23 Jan 2022 20:49:14 +0300
+
 ncdc-devel (1.22.1+11+g4126dd5-0ppa1~impish1) impish; urgency=medium
 
   * New Git snapshot.
