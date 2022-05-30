@@ -1,3 +1,9 @@
+ncdc-devel (1.23-0ppa1~kinetic1) kinetic; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Tue, 31 May 2022 00:19:07 +0300
+
 ncdc-devel (1.22.1+14+gd24cda7-0ppa1~kinetic1) kinetic; urgency=medium
 
   * New Git snapshot.
