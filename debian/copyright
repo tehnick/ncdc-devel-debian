@@ -6,7 +6,7 @@ Upstream-Contact: Yoran Heling <projects@yorhel.nl>
 Source: https://g.blicky.net/ncdc.git
 
 Files: *
-Copyright: 2011-2019 Yoran Heling <projects@yorhel.nl>
+Copyright: 2011-2022 Yoran Heling <projects@yorhel.nl>
 License: Expat
 
 Files: debian/*
