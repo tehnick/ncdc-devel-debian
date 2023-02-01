@@ -1,3 +1,9 @@
+ncdc-devel (1.23.1+2+g2cf47a7-0ppa1~lunar1) lunar; urgency=medium
+
+  * New Git snapshot.
+
+ -- Boris Pek <tehnick@debian.org>  Thu, 02 Feb 2023 01:58:40 +0300
+
 ncdc-devel (1.23.1-0ppa1~kinetic1) kinetic; urgency=medium
 
   * New Git snapshot.
