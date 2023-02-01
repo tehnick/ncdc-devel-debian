@@ -6,14 +6,13 @@ Build-Depends: debhelper-compat (= 11),
                libbz2-dev,
                libglib2.0-dev,
                libgnutls28-dev,
-               libncurses5-dev,
-               libncursesw5-dev,
+               libncurses-dev,
                libsqlite3-dev,
                zlib1g-dev
 Homepage: https://dev.yorhel.nl/ncdc
 Vcs-Git: https://github.com/tehnick/ncdc-devel-debian.git
 Vcs-Browser: https://github.com/tehnick/ncdc-devel-debian
-Standards-Version: 4.6.1
+Standards-Version: 4.6.2
 Rules-Requires-Root: no
 
 Package: ncdc
